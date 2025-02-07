@@ -1,0 +1,13 @@
+header {
+    height: 70px;
+    box-shadow: 0 4px 0 20px #40E0D0;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: #40E0D0
+}
